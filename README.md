@@ -39,6 +39,7 @@ Referências
 - [Styles](https://reactnative.dev/docs/style)
 - [Components](https://reactnative.dev/docs/components-and-apis)
 - [Navigation](https://reactnavigation.org/docs/getting-started)
+- [Navigation Stack](https://reactnavigation.org/docs/stack-navigator/)
 
 ---
 
